@@ -1,0 +1,16 @@
+# Ignore the Memory Database (It's heavy and personal)
+memory_storage_unified/
+rag_storage/
+my_memory_new/
+
+# Ignore Python System Files (Cache)
+__pycache__/
+*.pyc
+
+# Ignore Virtual Environments (If you have them)
+venv/
+env/
+.env
+
+# Ignore Crash Reports
+crash_report.txt
